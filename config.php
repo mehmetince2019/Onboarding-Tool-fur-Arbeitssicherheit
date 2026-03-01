@@ -1,7 +1,7 @@
 <?php
 $host = 'localhost';
 $db   = 'arbeitsschutz';
-$user = 'root';
+$user = 'arbeitsxxxuser'; // iher username !!!!
 $pass = 'xxxxxxxxxxxx'; //  Ihr MySQL-Passwort !!!!
 
 $dsn = "mysql:host=$host;dbname=$db;charset=utf8mb4";
@@ -14,4 +14,5 @@ try {
 } catch (PDOException $e) {
     die('Veritabanı bağlantı hatası: ' . $e->getMessage());
 }
+
 
