@@ -66,3 +66,4 @@ Suchen Sie die Verbindungsdatei (z. B. config.php oder db.php) und passen Sie di
 Starten Sie die Anwendung über Ihren lokalen Webserver (localhost).
 
 demo : https://www.narter.online/
+admin:admin123
