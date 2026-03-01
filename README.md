@@ -43,13 +43,25 @@ Sofort-Auswertung: Anzeige der Punktzahl und des Status (Bestanden/Nicht bestand
 Datenbank-Integration: Speicherung der aggregierten Testdaten zur Optimierung der Schulungsinhalte.
 
 🔧 Installation
-Repository klonen:
+1- Repository klonen:
 
 Bash
 git clone https://github.com/dein-benutzername/arbeitssicherheit-test.git
-Erstellen Sie eine Datenbank in MySQL und importieren Sie die database.sql.
 
-Passen Sie die Verbindungsdaten in der config.php an.
+2- Erstellen Sie eine Datenbank in MySQL und importieren Sie die database.sql.
+
+3- Passen Sie die Verbindungsdaten in der config.php an.
+
+##################
+
+Öffnen Sie Ihr Datenbank-Verwaltungstool (z. B. phpMyAdmin).
+Erstellen Sie eine neue Datenbank (z. B. arbeitssicherheit_db).
+Importieren Sie die bereitgestellte database.sql Datei, um die Tabellenstruktur zu erstellen.
+Konfiguration anpassen:
+Suchen Sie die Verbindungsdatei (z. B. config.php oder db.php) und passen Sie die Parameter an Ihre lokale Umgebung an:
+
+############
+
 
 Starten Sie die Anwendung über Ihren lokalen Webserver (localhost).
 
