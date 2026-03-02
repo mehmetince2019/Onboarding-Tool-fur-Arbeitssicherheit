@@ -67,6 +67,7 @@ dusunulen / hedeflenen/ planlanan  / fikirler :
 1- test adaylari listesi excelden yüklensin 
 2- sorular excelden yuklensin 
 3- admin ergebnisi detyli görüyor -- ilk dusunceye göre isveren gibi o da sadece basarili sonucu görsün. ayrinitiyi o da görmesin.  
+4- admin anasayfaya egitim presantationunu ekleyebilsin - egirim kismini da ekle ???
 
 
 #####
@@ -88,6 +89,9 @@ Geplante Funktionen / Ideen
 1- Excel-Import für Kandidaten: Implementierung einer Funktion, um Testkandidaten-Listen direkt aus einer Excel-Datei in die Datenbank zu importieren.
 2- Excel-Import für Fragen: Die Fragen und Antworten des Quiz sollen bequem über eine Excel-Vorlage hochgeladen werden können.
 3- Eingeschränkte Ergebnisansicht (Admin): Anpassung der Admin-Rechte – Der Administrator (Arbeitgeber) soll, genau wie der Nutzer, nur das Endergebnis (Bestanden/Nicht bestanden) sehen. Detaillierte Fehleranalysen sollen aus Datenschutz- oder Vereinfachungsgründen ausgeblendet werden.
+4- admin - homagege -prasantationu .. kan - hochladen -  4- admin anasayfaya egitim preantationunu ekleyebilsin - egirim kismini da ekle ?
+
+
 
 Fehlerliste (Bug-Log)
 1- Löschfehler in der Übersicht: Beim Löschen eines Datensatzes in der Übersicht tritt ein Fehler auf. Der Datensatz wird in der Datenbank nicht korrekt entfernt, sondern stattdessen mit dem Wert 0 überschrieben oder als 0 gespeichert.
