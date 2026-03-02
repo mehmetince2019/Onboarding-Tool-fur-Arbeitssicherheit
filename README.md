@@ -72,7 +72,7 @@ dusunulen / hedeflenen/ planlanan  / fikirler :
 
 #####
 Bugs & Fehler:
-1- übersicht te  silme hata veriyor - database 0 olarak kaydediliyor 
+1- übersicht te  silme hata veriyor - database e kayitlar 0 olarak kaydediliyor 
 2-  
 
 
