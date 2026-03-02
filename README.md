@@ -46,11 +46,11 @@ Datenbank-Integration: Speicherung der aggregierten Testdaten zur Optimierung de
 1- Repository klonen:
 
 Bash
-git clone https://github.com/dein-benutzername/arbeitssicherheit-test.git
+git clone https://github.com/dein-benutzername/arbeitssicherheit-test](https://github.com/mehmetince2019/Onboarding-Tool-fur-Arbeitssicherheit.git
 
-2- Erstellen Sie eine Datenbank in MySQL und importieren Sie die database.sql.
+2- Erstellen Sie eine Datenbank in MySQL (+ user anlegen) und importieren Sie die database.sql. (database = Sql.txt)
 
-3- Passen Sie die Verbindungsdaten in der config.php an.
+3- Passen Sie die config.php an.
 
 ##################
 
@@ -58,10 +58,9 @@ git clone https://github.com/dein-benutzername/arbeitssicherheit-test.git
 Erstellen Sie eine neue Datenbank (z. B. arbeitssicherheit_db).
 Importieren Sie die bereitgestellte database.sql Datei, um die Tabellenstruktur zu erstellen.
 Konfiguration anpassen:
-Suchen Sie die Verbindungsdatei (z. B. config.php oder db.php) und passen Sie die Parameter an Ihre lokale Umgebung an:
+Suchen Sie die Verbindungsdatei (config.php ) und passen Sie die Parameter an Ihre lokale Umgebung an:
 
 ############
-
 
 Starten Sie die Anwendung über Ihren lokalen Webserver (localhost).
 
